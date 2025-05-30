@@ -1,19 +1,43 @@
-# 💫 Sobre mim:
-Sou um profissional autodidata, com grande paixão por tecnologia. Desde cedo, minha curiosidade me impulsionou a buscar soluções criativas para desafios, o que me levou a descobrir um universo de oportunidades e inovações. Tenho forte habilidade para trabalhar em equipe. Sou focado, proativo e sempre em busca de novas experiências que me permitam crescer no ramo da tecnologia.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+## <p align="center">  Olá! Que bom te ver por aqui. 💻😁
+
+<p align="rigth"> 
+Sou o Douglas, desenvolvedor de software em constante evolução. Com formação em Análise e Desenvolvimento de Sistemas, sou movido por desafios e apaixonado por transformar ideias em soluções reais.
+Atualmente, mergulho nos universos de Python, Java e tecnologias web, participando ativamente do programa Oracle One em parceria com a Alura, que têm ampliado minha visão sobre inovação, IA e desenvolvimento back-end.
+
+Acredito que tecnologia é ponte entre pessoas, sonhos e oportunidades. Estou construindo meu caminho com foco, aprendizado contínuo e propósito.
+
+Vamos nos conectar e criar juntos? 🚀
+
+</p>
 
 
-## 🌐 Conecte-se comigo:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/d.oliveira._?igsh=MW5qNmZsNHdjMmh1NQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/douglas-oliveira-627088188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+## 🚀 O que estou aprendendo:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,javascript,aws)](https://skillicons.dev)<br><br>
 
-# 💻 Tecnologias:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ Ferramentas e Tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,mysql,postgres,git,github)](https://skillicons.dev)<br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=notdougz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=notdougz&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notdougz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 👥 Projetos e iniciativas:
+- Desenvolvi um portfólio online com projetos práticos e jogos interativos, conectando aprendizado e criatividade.
 
----
-[![](https://visitcount.itsvg.in/api?id=notdougz&icon=0&color=0)](https://visitcount.itsvg.in)
+- Criei um jogo personalizado para celebrar meu relacionamento, unindo afeto e programação em um projeto único.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Participei de diversos cursos com foco em boas práticas, documentação e versionamento de código, sempre buscando escrever soluções limpas e reutilizáveis.
+
+## Vamos conversar? ⤵️⤵️
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-oliveira-627088188/)](https://www.linkedin.com/in/douglas-oliveira-627088188/)
+
+
+<div align="center">
+  <h3><b>📍 Contador de visitantes</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/notdougz/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
