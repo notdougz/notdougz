@@ -32,8 +32,4 @@ Vamos nos conectar e criar juntos? 🚀
 </div>
 
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/notdougz/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
+
