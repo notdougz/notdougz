@@ -29,10 +29,6 @@ Vamos nos conectar e criar juntos? 🚀
 ## Vamos conversar? ⤵️⤵️
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-oliveira-627088188/)](https://www.linkedin.com/in/douglas-oliveira-627088188/)
-
-
-<div align="center">
-  <h3><b>📍 Contador de visitantes</b></h3>
 </div>
 
 <p align="center">
