@@ -41,7 +41,7 @@
 
 ### 🚀 **[First API](https://github.com/notdougz/first-api)**
 
-- **Tecnologias:** Python, FastAPI/Flask, PostgreSQL
+- **Tecnologias:** Python, FastAPI, PostgreSQL
 - **Descrição:** API RESTful robusta com autenticação e CRUD completo
 - **Destaques:** Documentação automática, testes unitários, deploy em produção
 
