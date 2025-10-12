@@ -33,17 +33,23 @@
 
 ## 🏆 **Projetos em Destaque**
 
-### 🌐 **[Portfólio Interativo](https://portfolio-sage-sigma-63.vercel.app/)**
+### 💇‍♂️ **[Sistema de Agendamentos Barbearia](https://kevembarber.up.railway.app/login/?next=/)**
 
-- **Tecnologias:** HTML5, CSS3, JavaScript
-- **Descrição:** Portfólio responsivo com projetos práticos e jogos interativos
-- **Destaques:** Design moderno, UX otimizada, projetos funcionais
+- **Tecnologias:** Django, Python, PostgreSQL, HTML, CSS, JavaScript
+- **Descrição:** Sistema completo de agendamento para barbearia com gestão de clientes, serviços, agendamentos e notificações por SMS
+- **Destaques:** Deploy em produção, autenticação segura, relatórios financeiros, interface responsiva
 
 ### 🚀 **[First API](https://github.com/notdougz/first-api)**
 
 - **Tecnologias:** Python, FastAPI, PostgreSQL
 - **Descrição:** API RESTful robusta com autenticação e CRUD completo
 - **Destaques:** Documentação automática, testes unitários, deploy em produção
+
+### 🌐 **[Portfólio Interativo](https://portfolio-sage-sigma-63.vercel.app/)**
+
+- **Tecnologias:** HTML5, CSS3, JavaScript
+- **Descrição:** Portfólio responsivo com projetos práticos e jogos interativos
+- **Destaques:** Design moderno, UX otimizada, projetos funcionais
 
 ### 🎮 **Jogos & Aplicações Personalizadas**
 
