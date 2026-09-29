@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="34" viewBox="0 0 640 34" role="img" aria-label="Integro LLMs e agentes a produtos web · APIs em Node.js e Python, interfaces em React · Do back-end à interface, com testes e deploy">
+  <style>
+    text { font: 500 17px 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #4a9fe8; }
+    .line { opacity: 0; animation: cycle 12s infinite; }
+    .l2 { animation-delay: 4s; }
+    .l3 { animation-delay: 8s; }
+    .mask { animation: type 4s steps(44) infinite; }
+    @keyframes cycle { 0% { opacity: 1; } 30% { opacity: 1; } 33.3%, 100% { opacity: 0; } }
+    @keyframes type { 0% { width: 0; } 55%, 100% { width: 640px; } }
+    .caret { fill: #4a9fe8; animation: blink 0.9s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <defs><clipPath id="c"><rect class="mask" x="0" y="0" height="34" width="0"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <text class="line l1" x="320" y="23" text-anchor="middle">Integro LLMs e agentes a produtos web</text>
+    <text class="line l2" x="320" y="23" text-anchor="middle">APIs em Node.js e Python, interfaces em React</text>
+    <text class="line l3" x="320" y="23" text-anchor="middle">Do back-end à interface, com testes e deploy</text>
+  </g>
+</svg>

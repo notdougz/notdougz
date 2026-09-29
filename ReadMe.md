@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.techdoug.me/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=70BDFF&center=true&vCenter=true&width=620&lines=Integro+LLMs+e+agentes+a+produtos+web;APIs+em+Node.js+e+Python%2C+interfaces+em+React;Do+back-end+%C3%A0+interface%2C+com+testes+e+deploy" alt="Integro LLMs e agentes a produtos web · APIs em Node.js e Python · Do back-end à interface"></a>
+  <img src="assets/typing.svg" alt="Integro LLMs e agentes a produtos web · APIs em Node.js e Python · Do back-end à interface">
 </p>
 
 ### 👋 Sobre mim
@@ -58,11 +58,9 @@
 
 ### 🧭 Trajetória
 
-| | |
-| :-- | :-- |
-| **2026 — hoje** | Desenvolvedor Full-Stack · **Humana AI** — plataforma de IA, LLMs, agentes e streaming |
-| **2025 — 2026** | Desenvolvedor Full-Stack · **Appen Seguros** — automação em Python, APIs Node.js/AdonisJS, React |
-| **2025** | Desenvolvedor Full-Stack · **autônomo** — sistema de gestão para barbearia, do código ao deploy |
+- **2026 — hoje** · Desenvolvedor Full-Stack na **Humana AI** — plataforma de IA, LLMs, agentes e streaming
+- **2025 — 2026** · Desenvolvedor Full-Stack na **Appen Seguros** — automação em Python, APIs Node.js/AdonisJS, React
+- **2025** · Desenvolvedor Full-Stack **autônomo** — sistema de gestão para barbearia, do código ao deploy
 
 <details>
 <summary>Antes do desenvolvimento</summary>
