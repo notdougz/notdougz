@@ -1,99 +1,65 @@
-# 👋 Olá! Eu sou Douglas Oliveira
+# Douglas Oliveira 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/notdougz/portfolio/main/assets/avatar-douglas.webp" alt="Avatar ilustrado de Douglas Oliveira" width="160" align="right">
 
-## 🚀 Desenvolvedor Fullstack | Transformando ideias em soluções digitais
+**Desenvolvedor full-stack · back-end e IA aplicada · São Paulo, Brasil**
 
-**Analista e Desenvolvedor de Sistemas** com paixão por tecnologia e inovação. Especializado em desenvolvimento web full-stack, com experiência sólida em **Python**, **Java** e **JavaScript**. Formação completa pelo programa **Oracle One** em parceria com a **Alura**, com conhecimentos avançados em IA e desenvolvimento back-end.
+Gosto de pegar uma ideia e acompanhá-la até virar algo que as pessoas realmente usam: da API e dos dados à interface, aos testes e à entrega.
 
-### 💡 **Sobre mim:**
+Hoje trabalho na **Humana AI**, conectando modelos de linguagem, agentes e ferramentas a produtos web. Minha base está em Python, Node.js, React e TypeScript.
 
-- 🎯 **Foco:** Desenvolvimento de aplicações web escaláveis e APIs robustas
-- 🌱 **Aprendizado contínuo:** Sempre explorando novas tecnologias e metodologias
-- 🏆 **Objetivo:** Criar soluções que conectem pessoas e oportunidades através da tecnologia
-- 📍 **Localização:** São Paulo, Brasil
-
----
-
-## 🛠️ **Stack Tecnológico**
-
-### **Linguagens & Frameworks:**
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,spring,django,html,css)](https://skillicons.dev)
-
-### **Banco de Dados & Cloud:**
-
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,aws)](https://skillicons.dev)
-
-### **Ferramentas & DevOps:**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,docker,linux)](https://skillicons.dev)
+<p>
+  <a href="https://www.techdoug.me/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-70BDFF?style=for-the-badge&logo=vercel&logoColor=08101B" alt="Acessar meu portfólio"></a>
+  <a href="https://www.linkedin.com/in/douglas-oliveira-627088188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"></a>
+  <a href="mailto:doug.dev@hotmail.com"><img src="https://img.shields.io/badge/E--mail-26384B?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
+</p>
 
 ---
 
-## 🏆 **Projetos em Destaque**
+## 🧭 Por onde passei
 
-### 💇‍♂️ **[Sistema de Agendamentos Barbearia](https://kevembarber.up.railway.app/login/?next=/)**
+| Período | Experiência | No que trabalhei |
+| :-- | :-- | :-- |
+| 2026 — hoje | **Desenvolvedor Full-Stack · Humana AI** | Plataforma de IA: integração de LLMs e agentes, ferramentas, streaming, interfaces React/TypeScript, APIs e testes. |
+| 2025 — 2026 | **Desenvolvedor Full-Stack · Appen Seguros** | Automação de faturamento em Python, APIs com Node.js/AdonisJS, aplicações React e integrações. |
+| 2025 | **Desenvolvedor Full-Stack · autônomo** | Sistema de gestão para barbearia, da agenda e do financeiro ao deploy e à manutenção. |
 
-- **Tecnologias:** Django, Python, PostgreSQL, HTML, CSS, JavaScript
-- **Descrição:** Sistema completo de agendamento para barbearia com gestão de clientes, serviços, agendamentos e notificações por SMS
-- **Destaques:** Deploy em produção, autenticação segura, relatórios financeiros, interface responsiva
+Antes de migrar para desenvolvimento, trabalhei em rotinas administrativas e hospitalares no **Hospital e Maternidade Santa Joana** e na **Pro Matre Paulista**, além de iniciar minha trajetória como jovem aprendiz na **Santa Rita Industrial e Comercial**. Essa experiência continua influenciando meu jeito de ouvir, organizar e resolver problemas.
 
-### 🚀 **[First API](https://github.com/notdougz/first-api)**
+## 🧩 Projetos que contam um pouco do meu trabalho
 
-- **Tecnologias:** Python, FastAPI, PostgreSQL
-- **Descrição:** API RESTful robusta com autenticação e CRUD completo
-- **Destaques:** Documentação automática, testes unitários, deploy em produção
+- **[Sistema de agendamentos para barbearia](https://github.com/notdougz/projeto-barbearia)** — produto para um cliente real, com agenda, clientes, serviços, financeiro e notificações por SMS. O projeto reúne 250 testes e CI com GitHub Actions.
+- **[First API](https://github.com/notdougz/first-api)** — API de tarefas com autenticação JWT, isolamento por usuário, testes automatizados, Docker e uma interface integrada.
+- **[Este portfólio](https://www.techdoug.me/)** — uma apresentação mais completa da minha trajetória, com projetos, IA aplicada e currículo em português e inglês. [Veja o código](https://github.com/notdougz/portfolio).
 
-### 🌐 **[Portfólio Interativo](https://portfolio-sage-sigma-63.vercel.app/)**
+## 🛠️ Ferramentas que uso
 
-- **Tecnologias:** HTML5, CSS3, JavaScript
-- **Descrição:** Portfólio responsivo com projetos práticos e jogos interativos
-- **Destaques:** Design moderno, UX otimizada, projetos funcionais
+**Back-end e dados**
 
-### 🎮 **Jogos & Aplicações Personalizadas**
+[![Python, FastAPI, Django, Node.js, AdonisJS, PostgreSQL e MySQL](https://skillicons.dev/icons?i=py,fastapi,django,nodejs,adonis,postgres,mysql&theme=dark)](https://skillicons.dev)
 
-- **Projetos únicos:** Desenvolvimento de jogos personalizados usando lógica de programação avançada
-- **Foco:** Criatividade + Código limpo e reutilizável
+**Interfaces**
 
-### 🎓 **Formação Oracle One + Alura (Concluída)**
+[![React, Next.js, TypeScript, JavaScript, HTML e CSS](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark)](https://skillicons.dev)
 
-- **Áreas:** Desenvolvimento Back-end, IA, Boas práticas de código
-- **Metodologias:** SOLID, Clean Code, Versionamento Git
-- **Status:** ✅ Certificação completa
+**Qualidade e entrega**
 
----
+[![Vitest, Docker, Git e GitHub Actions](https://skillicons.dev/icons?i=vitest,docker,git,githubactions&theme=dark)](https://skillicons.dev)
 
-## 📊 **GitHub Stats**
-
-<div align="center">
-  
-![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdougz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notdougz&layout=compact&theme=radical)
-
-</div>
+Também uso **Playwright** e **Pytest** para testar aplicações web e Python.
 
 ---
 
-## 🤝 **Vamos nos conectar?**
+## 🎓 Formação e aprendizado
 
-<div align="center">
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas pela FAM**. Também participei do **Oracle Next Education**. Sigo aprendendo, especialmente sobre IA aplicada e como transformar suas possibilidades em experiências confiáveis para quem usa o produto.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-sage-sigma-63.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-oliveira-627088188/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.oliveira._)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doug.dev@hotmail.com)
+## 🥏 Fora do código
 
-</div>
+Sou apaixonado por **Ultimate Frisbee** e já fui campeão brasileiro. O esporte é autoarbitrado: diálogo, respeito e responsabilidade fazem parte de cada jogo. Levo esses valores para a forma como colaboro em equipe.
 
 ---
 
-<div align="center">
-  
-### 💼 **Aberto a oportunidades de trabalho e colaborações!**
-*"Acredito que tecnologia é a ponte entre pessoas, sonhos e oportunidades."*
+## 💬 Vamos conversar?
 
-![Profile Views](https://komarev.com/ghpvc/?username=notdougz&color=brightgreen)
-
-</div>
+Se quiser conversar sobre desenvolvimento full-stack, back-end ou IA aplicada, [me escreva](mailto:doug.dev@hotmail.com) ou me encontre no [LinkedIn](https://www.linkedin.com/in/douglas-oliveira-627088188/).
