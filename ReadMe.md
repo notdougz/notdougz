@@ -1,65 +1,81 @@
-# Douglas Oliveira 👋
+<a href="https://www.techdoug.me/">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.webp">
+    <img src="assets/banner-dark.webp" alt="Douglas Oliveira — desenvolvedor full-stack e IA aplicada, hoje na Humana AI">
+  </picture>
+</a>
 
-<img src="https://raw.githubusercontent.com/notdougz/portfolio/main/assets/avatar-douglas.webp" alt="Avatar ilustrado de Douglas Oliveira" width="160" align="right">
-
-**Desenvolvedor full-stack · back-end e IA aplicada · São Paulo, Brasil**
-
-Gosto de pegar uma ideia e acompanhá-la até virar algo que as pessoas realmente usam: da API e dos dados à interface, aos testes e à entrega.
-
-Hoje trabalho na **Humana AI**, conectando modelos de linguagem, agentes e ferramentas a produtos web. Minha base está em Python, Node.js, React e TypeScript.
-
-<p>
-  <a href="https://www.techdoug.me/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-70BDFF?style=for-the-badge&logo=vercel&logoColor=08101B" alt="Acessar meu portfólio"></a>
-  <a href="https://www.linkedin.com/in/douglas-oliveira-627088188/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"></a>
-  <a href="mailto:doug.dev@hotmail.com"><img src="https://img.shields.io/badge/E--mail-26384B?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"></a>
+<p align="center">
+  <a href="https://www.techdoug.me/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-techdoug.me-70BDFF?style=for-the-badge&labelColor=0B1118" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/douglas-oliveira-627088188/"><img src="https://img.shields.io/badge/LinkedIn-Douglas%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1118" alt="LinkedIn"></a>
+  <a href="mailto:doug.dev@hotmail.com"><img src="https://img.shields.io/badge/E--mail-doug.dev%40hotmail.com-70BDFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1118" alt="E-mail"></a>
+  <a href="https://www.techdoug.me/assets/Douglas_Oliveira.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-70BDFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0B1118" alt="Currículo em PDF"></a>
 </p>
 
+<p align="center">
+  <a href="https://www.techdoug.me/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=70BDFF&center=true&vCenter=true&width=620&lines=Integro+LLMs+e+agentes+a+produtos+web;APIs+em+Node.js+e+Python%2C+interfaces+em+React;Do+back-end+%C3%A0+interface%2C+com+testes+e+deploy" alt="Integro LLMs e agentes a produtos web · APIs em Node.js e Python · Do back-end à interface"></a>
+</p>
+
+### 👋 Sobre mim
+
+- 🤖 Hoje na **[Humana AI](https://www.techdoug.me/#experiencia)**: integro LLMs, agentes, ferramentas e respostas em streaming a uma plataforma web, com React/TypeScript, Node.js/Next.js e PostgreSQL.
+- 🧱 Gosto de levar uma ideia do começo ao fim: API, dados, interface, testes (Vitest, Playwright, Pytest) e deploy.
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (FAM) e aluno do Oracle Next Education.
+- 🥏 Fora do código, campeão brasileiro de **Ultimate Frisbee**.
+
+### 🧩 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/notdougz/projeto-barbearia"><img src="assets/barbearia.webp" alt="Dashboard do sistema de agendamentos"></a>
+      <br><b><a href="https://github.com/notdougz/projeto-barbearia">Sistema de agendamentos</a></b>
+      <br><sub>Cliente real · agenda, financeiro e SMS · <b>250 testes</b> e CI/CD</sub>
+      <br><sub><code>Django</code> <code>PostgreSQL</code> <code>Railway</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/notdougz/first-api"><img src="assets/first-api.webp" alt="Interface da First API"></a>
+      <br><b><a href="https://github.com/notdougz/first-api">First API</a></b>
+      <br><sub>API assíncrona com JWT, tarefas isoladas por usuário e testes</sub>
+      <br><sub><code>FastAPI</code> <code>SQLAlchemy</code> <code>Docker</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.techdoug.me/"><img src="assets/portfolio.webp" alt="Portfólio techdoug.me"></a>
+      <br><b><a href="https://github.com/notdougz/portfolio">techdoug.me</a></b>
+      <br><sub>Portfólio bilíngue com animações de scroll e currículo</sub>
+      <br><sub><code>Vite</code> <code>GSAP</code> <code>JavaScript</code></sub>
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,adonis,postgres,mysql&theme=dark" alt="Python, FastAPI, Django, Node.js, AdonisJS, PostgreSQL, MySQL"><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS"><br>
+  <img src="https://skillicons.dev/icons?i=vitest,docker,git,githubactions,vercel&theme=dark" alt="Vitest, Docker, Git, GitHub Actions, Vercel">
+</p>
+
+### 🧭 Trajetória
+
+| | |
+| :-- | :-- |
+| **2026 — hoje** | Desenvolvedor Full-Stack · **Humana AI** — plataforma de IA, LLMs, agentes e streaming |
+| **2025 — 2026** | Desenvolvedor Full-Stack · **Appen Seguros** — automação em Python, APIs Node.js/AdonisJS, React |
+| **2025** | Desenvolvedor Full-Stack · **autônomo** — sistema de gestão para barbearia, do código ao deploy |
+
+<details>
+<summary>Antes do desenvolvimento</summary>
+
+Rotinas administrativas hospitalares no **Hospital e Maternidade Santa Joana** e na **Pro Matre Paulista**, e jovem aprendiz na **Santa Rita Industrial e Comercial**. Essa experiência continua no meu jeito de ouvir, organizar e resolver problemas.
+
+</details>
+
 ---
 
-## 🧭 Por onde passei
-
-| Período | Experiência | No que trabalhei |
-| :-- | :-- | :-- |
-| 2026 — hoje | **Desenvolvedor Full-Stack · Humana AI** | Plataforma de IA: integração de LLMs e agentes, ferramentas, streaming, interfaces React/TypeScript, APIs e testes. |
-| 2025 — 2026 | **Desenvolvedor Full-Stack · Appen Seguros** | Automação de faturamento em Python, APIs com Node.js/AdonisJS, aplicações React e integrações. |
-| 2025 | **Desenvolvedor Full-Stack · autônomo** | Sistema de gestão para barbearia, da agenda e do financeiro ao deploy e à manutenção. |
-
-Antes de migrar para desenvolvimento, trabalhei em rotinas administrativas e hospitalares no **Hospital e Maternidade Santa Joana** e na **Pro Matre Paulista**, além de iniciar minha trajetória como jovem aprendiz na **Santa Rita Industrial e Comercial**. Essa experiência continua influenciando meu jeito de ouvir, organizar e resolver problemas.
-
-## 🧩 Projetos que contam um pouco do meu trabalho
-
-- **[Sistema de agendamentos para barbearia](https://github.com/notdougz/projeto-barbearia)** — produto para um cliente real, com agenda, clientes, serviços, financeiro e notificações por SMS. O projeto reúne 250 testes e CI com GitHub Actions.
-- **[First API](https://github.com/notdougz/first-api)** — API de tarefas com autenticação JWT, isolamento por usuário, testes automatizados, Docker e uma interface integrada.
-- **[Este portfólio](https://www.techdoug.me/)** — uma apresentação mais completa da minha trajetória, com projetos, IA aplicada e currículo em português e inglês. [Veja o código](https://github.com/notdougz/portfolio).
-
-## 🛠️ Ferramentas que uso
-
-**Back-end e dados**
-
-[![Python, FastAPI, Django, Node.js, AdonisJS, PostgreSQL e MySQL](https://skillicons.dev/icons?i=py,fastapi,django,nodejs,adonis,postgres,mysql&theme=dark)](https://skillicons.dev)
-
-**Interfaces**
-
-[![React, Next.js, TypeScript, JavaScript, HTML e CSS](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark)](https://skillicons.dev)
-
-**Qualidade e entrega**
-
-[![Vitest, Docker, Git e GitHub Actions](https://skillicons.dev/icons?i=vitest,docker,git,githubactions&theme=dark)](https://skillicons.dev)
-
-Também uso **Playwright** e **Pytest** para testar aplicações web e Python.
-
----
-
-## 🎓 Formação e aprendizado
-
-Sou tecnólogo em **Análise e Desenvolvimento de Sistemas pela FAM**. Também participei do **Oracle Next Education**. Sigo aprendendo, especialmente sobre IA aplicada e como transformar suas possibilidades em experiências confiáveis para quem usa o produto.
-
-## 🥏 Fora do código
-
-Sou apaixonado por **Ultimate Frisbee** e já fui campeão brasileiro. O esporte é autoarbitrado: diálogo, respeito e responsabilidade fazem parte de cada jogo. Levo esses valores para a forma como colaboro em equipe.
-
----
-
-## 💬 Vamos conversar?
-
-Se quiser conversar sobre desenvolvimento full-stack, back-end ou IA aplicada, [me escreva](mailto:doug.dev@hotmail.com) ou me encontre no [LinkedIn](https://www.linkedin.com/in/douglas-oliveira-627088188/).
+<p align="center">
+  <b>Vamos conversar?</b> Full-stack, back-end ou IA aplicada:
+  <a href="mailto:doug.dev@hotmail.com">doug.dev@hotmail.com</a> ·
+  <a href="https://www.linkedin.com/in/douglas-oliveira-627088188/">LinkedIn</a> ·
+  <a href="https://www.techdoug.me/">techdoug.me</a>
+</p>
