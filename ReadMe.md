@@ -16,14 +16,14 @@
   <img src="assets/typing.svg" alt="Integro LLMs e agentes a produtos web · APIs em Node.js e Python · Do back-end à interface">
 </p>
 
-### 👋 Sobre mim
+### Sobre mim
 
-- 🤖 Hoje na **[Humana AI](https://www.techdoug.me/#experiencia)**: integro LLMs, agentes, ferramentas e respostas em streaming a uma plataforma web, com React/TypeScript, Node.js/Next.js e PostgreSQL.
-- 🧱 Gosto de levar uma ideia do começo ao fim: API, dados, interface, testes (Vitest, Playwright, Pytest) e deploy.
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (FAM) e aluno do Oracle Next Education.
-- 🥏 Fora do código, campeão brasileiro de **Ultimate Frisbee**.
+- Hoje na **[Humana AI](https://www.techdoug.me/#experiencia)**: integro LLMs, agentes, ferramentas e respostas em streaming a uma plataforma web, com React/TypeScript, Node.js/Next.js e PostgreSQL.
+- Gosto de levar uma ideia do começo ao fim: API, dados, interface, testes (Vitest, Playwright, Pytest) e deploy.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas (FAM) e aluno do Oracle Next Education.
+- Fora do código, campeão brasileiro de **Ultimate Frisbee**.
 
-### 🧩 Projetos em destaque
+### Projetos em destaque
 
 <table>
   <tr>
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-### 🛠️ Stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,django,nodejs,adonis,postgres,mysql&theme=dark" alt="Python, FastAPI, Django, Node.js, AdonisJS, PostgreSQL, MySQL"><br>
@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=vitest,docker,git,githubactions,vercel&theme=dark" alt="Vitest, Docker, Git, GitHub Actions, Vercel">
 </p>
 
-### 🧭 Trajetória
+### Trajetória
 
 - **2026 — hoje** · Desenvolvedor Full-Stack na **Humana AI** — plataforma de IA, LLMs, agentes e streaming
 - **2025 — 2026** · Desenvolvedor Full-Stack na **Appen Seguros** — automação em Python, APIs Node.js/AdonisJS, React
